@@ -5,4 +5,5 @@ Super + C = Kitty
 Super + Q = Quit
 Super + B = Firefox
 Super + E = Dolphin
-Reset are default
+Super + T = Toggle split
+Rest are default
